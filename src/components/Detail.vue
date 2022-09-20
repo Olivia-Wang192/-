@@ -1,6 +1,6 @@
 <template>
     <div>
-
+<!-- 展示缩放卡片 -->
         <div class="head">
         <h3>推荐</h3></div>
             <div class="cards">

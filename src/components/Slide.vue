@@ -1,6 +1,6 @@
 <template>
   <div class="banner" @mouseover="mouseoverCall" @mouseout="mouseoutCall">
-    <!-- 绑定图片的src属性 -->
+    <!-- 绑定图片的src属性 轮播图-->
     <a href="#"
       ><img :src="catImgs[i]" width="1226px" height="460px" id="myImg"
     /></a>
